@@ -1,0 +1,20 @@
+ 
+
+.products-section {
+  width: 60%;
+  text-align: center;
+  font-size: 20px;
+}
+
+
+.products-title {
+  text-align: center;
+  width: 100%;
+  margin: 30px 0;
+  color: black;
+  font-size: 20px;
+  font-family: 'Audiowide', sans-serif;
+  text-decoration: none;
+
+
+}

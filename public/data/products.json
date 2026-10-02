@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Guitarra Electrica",
+    "description": "Pionera en generos como el blues, el jazz y el rock",
+    "price": 1850000,
+    "image": "/imagenes/electrica6.png"
+  },
+  {
+    "id": 2,
+    "name": "Guitarra Acustica",
+    "description": "Posee cuerdas de metal por lo que su sonido es fuerte",
+    "price": 200000,
+    "image": "/imagenes/acustica21.png"
+  },
+  {
+    "id": 3,
+    "name": "Guitarra Criolla",
+    "description": "Ofrece un sonido suave y calido",
+    "price": 105000,
+    "image": "/imagenes/guitarra890.png"
+  },
+  {
+    "id": 4,
+    "name": "Bateria",
+    "description": "Su configuración permite desarrollar técnica, coordinación y expresión",
+    "price": 800000,
+    "image": "/imagenes/bateria90.png"
+  },
+  {
+    "id": 5,
+    "name": "Bajo",
+    "description": "Es un instrumento versátil, cómodo y con una excelente presencia sonora",
+    "price": 550000,
+    "image": "/imagenes/bajo78.png"
+  },
+  {
+    "id": 6,
+    "name": "Teclado",
+    "description": "Ideal para quienes buscan una opción cómoda para practicar y crear",
+    "price": 400000,
+    "image": "/imagenes/teclado89.png"
+  },
+
+ {
+    "id": 7,
+    "name": "Microfono",
+    "description": "Es robusto, aguanta golpes, evita acoples y aísla el ruido. Sirve para ensayo con banda",
+    "price": 350000,
+    "image": "/imagenes/microfono4.png"
+  
+}
+
+
+ ]
+
+    

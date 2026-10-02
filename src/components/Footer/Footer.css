@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+footer {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 20px;
+  background-color: #B2FFFF;
+  font-family: 'Audiowide', sans-serif;
+  font-size: 20 px;
+}
+
+footer p {
+  text-align: center;
+}
+
+footer div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 15px 0;
+}
+
+.social-icons img {
+  width: 35px;
+  height: 35px;
+  object-fit: contain;
+}

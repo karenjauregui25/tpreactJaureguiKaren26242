@@ -1,0 +1,39 @@
+
+header {
+  display: flex;
+  align-items: center;
+  padding: 15px 30px;
+  background-color: #B2FFFF;
+  width: 100%;
+  box-sizing: border-box;
+  font-family: 'Audiowide', sans-serif;
+  font-size: 1.7 rem;
+}
+
+header img {
+  width: 100%;
+  height: auto ;
+  object-fit: contain;
+}
+
+header nav {
+  margin-left: auto;
+}
+
+.logo-container a 
+{display: flex;
+   align-items: center;
+  
+gap: 0.8rem;
+text-decoration: none;}
+
+.logo-container img { width: 45px;}
+
+.logo-container p
+ { font-size: 1.7rem;
+  font-size: bold;
+  
+  color: black;
+
+ margin:0}
+ 

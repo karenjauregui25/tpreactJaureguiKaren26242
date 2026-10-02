@@ -1,0 +1,31 @@
+
+.detail-wrapper {
+  max-width: 20 rem;
+  margin: auto;
+}
+
+
+
+
+.detail-wrapper .card p:first-of-type {
+  display: block;
+  overflow: visible;
+  line-clamp: unset;
+  -webkit-box-orient: initial;
+  
+}
+
+.title-list { font-size: 24px;
+  text-align: center;
+  margin:15px 0px; 
+  font-family:'Audiowide', sans-serif; 
+}
+ .card .btn {
+  margin: 15px auto;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aqua;
+}
